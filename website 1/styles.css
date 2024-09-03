@@ -4,9 +4,10 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: #222222; /* Dark grey */
+    background-image: url("C:/Users/jesto/Downloads/dribbble_100_size25fps.gif"); /* Corrected the file path */
     color: rgb(128, 250, 179); /* Adjust text color for readability */
 }
+
 
 header {
     background-color: #333;
